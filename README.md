@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ernie
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cybersecurity Analytics
-- 📫 How to reach me https://www.linkedin.com/in/ernesto-becerra-5hakd6n789/
+- 👋 Hi, I’m Ernesto Becerra or call me by my nickname Ernie.
+- 👀 I’m a Cybersecurity Specialist.
+- 🌱 I'm always learning and looking for new projects to undertake.
+- 📫 How to reach me: https://www.linkedin.com/in/ernesto-becerra-pnw/
 
 <!---
 Erniebpnw/Erniebpnw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
